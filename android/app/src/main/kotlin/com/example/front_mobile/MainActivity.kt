@@ -1,4 +1,4 @@
-package com.example.flex_desk_mobile
+package com.example.front_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 

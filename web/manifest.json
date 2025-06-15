@@ -1,6 +1,6 @@
 {
-    "name": "flex_desk_mobile",
-    "short_name": "flex_desk_mobile",
+    "name": "front_mobile",
+    "short_name": "front_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
